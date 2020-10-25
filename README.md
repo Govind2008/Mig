@@ -1,0 +1,2 @@
+# Mig
+GitHub Pages
